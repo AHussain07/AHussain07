@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻I am Software Engineering student @ university of leicester<br>🌐 All of my projects are available at https://aadamhussain.dev <br>📧How to reach me aadam.hussain@hotmail.com</p>
+<p align="left">💻I am Software Engineering student @ university of leicester<br>🌐 All of my projects are available at https://aadamhussain.dev </p>
 
 ###
 
